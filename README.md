@@ -9,23 +9,23 @@ It will:
   - Allow users to download any completed procedure into a ready to share .zip folder or send it directly into the printer! 
   - Suggest deleting repeated or deprecated documents to keep a clean, up-to-date and ready-to-use database. 
 
-## Setup & Configuration ⚙️
+## Setup & Configuration
 
-## Workspace Structure 🚧
+## Workspace Structure
 
-## Scripts 🐛
+## Scripts
 
-### Development server 🧰
+### Development server
 
-### Build 🛠️
+### Build
 
-### Unit tests 🧪
+### Unit tests
 
-### E2E tests ☢️
+### E2E tests
 
-## Tech Stack 💻
+## Tech Stack
   
-### Libraries 📚
+### Libraries
 
-## Credits ❤️
+## Credits
 
