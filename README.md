@@ -25,19 +25,25 @@ It will:
 
 ## Tech Stack
 
+  ### Frontend
+
   - React
   - TypeScript
   - Styled-Components
+
+  ### Backend
 
   - NodeJS
   - Express
   - MongoDB
   - Mongoose
 
+  ### Config
+
   - ESLint
+  - Prettier
   - ViteJS
   - Yarn
-  - Git
 
 ## Credits
 
