@@ -24,8 +24,20 @@ It will:
 ### E2E tests
 
 ## Tech Stack
-  
-### Libraries
+
+  - React
+  - TypeScript
+  - Styled-Components
+
+  - NodeJS
+  - Express
+  - MongoDB
+  - Mongoose
+
+  - ESLint
+  - ViteJS
+  - Yarn
+  - Git
 
 ## Credits
 
